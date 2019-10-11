@@ -8,3 +8,4 @@ Squash1
 Squash2
 info1
 info2
+info3
