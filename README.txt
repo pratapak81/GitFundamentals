@@ -7,3 +7,4 @@ Feature3
 Squash1
 Squash2
 info1
+info2
