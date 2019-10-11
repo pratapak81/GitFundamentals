@@ -4,3 +4,4 @@ Making another change
 Learning Stashing
 Feature2 added
 Feature3
+Squash1
