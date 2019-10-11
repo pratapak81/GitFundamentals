@@ -6,3 +6,4 @@ Feature2 added
 Feature3
 Squash1
 Squash2
+info1
